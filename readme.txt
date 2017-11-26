@@ -1,0 +1,2 @@
+For a file containing a two tuple indicating a directed graph from A to B,
+Just the intial file name needs to be changed. Provided that the python 3 environment is setup with the modules- seaborn,matplotlib,numpy,networkx, the code will work just fine in calculating the pagerank and plotting the two figures.
